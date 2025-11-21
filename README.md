@@ -65,3 +65,32 @@ It helps stakeholders identify bottlenecks, improve patient experience, and make
 - **Excel (Data Source)**
 - **Healthcare Analytics**
 - **Data Modeling & Visualization**
+
+- ## 🔧 How to Use
+
+1. Clone or download this repository.  
+2. Open the `Hospital.pbix` file using **Power BI Desktop**.  
+3. Explore the report pages, slicers, and drill-through features.  
+4. Modify or enhance the dataset to perform additional analysis.
+
+---
+
+## 🎯 Purpose of This Project
+
+This project demonstrates:
+
+- Your **data modeling** skills  
+- Your ability to work with **healthcare datasets**  
+- Strong **Power BI dashboard design**  
+- Understanding of **KPIs and healthcare operations**  
+- Readiness for **Data Analyst roles in Life Sciences/Healthcare**
+
+---
+
+## 📬 Contact
+
+**Krishna R**  
+Data Analyst  
+LinkedIn: https://www.linkedin.com/in/krishna-ravi08  
+Email: krishnaraveendran08@gmail.com
+
