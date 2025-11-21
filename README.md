@@ -21,7 +21,6 @@ It helps stakeholders identify bottlenecks, improve patient experience, and make
 - Which referral sources contribute most to ER admissions?
 
 ---
-<img width="1212" height="740" alt="image" src="https://github.com/user-attachments/assets/4c3ce066-e25a-4fc6-9266-d087762563fd" />
 
 ##  Key KPIs
 
@@ -66,6 +65,17 @@ It helps stakeholders identify bottlenecks, improve patient experience, and make
 - **Excel (Data Source)**
 - **Healthcare Analytics**
 - **Data Modeling & Visualization**
+
+- ## Dashboard Overview
+- Monthly View
+- <img width="1216" height="740" alt="Monthly_view" src="https://github.com/user-attachments/assets/574f5e23-c6ef-4419-a97a-0f31caed9314" />
+- Consolidated View
+- <img width="1212" height="737" alt="Consolidated view" src="https://github.com/user-attachments/assets/84214c65-00b9-45e7-84c2-8b3ede789e36" />
+-Patient Details
+-<img width="1213" height="740" alt="Patient Details" src="https://github.com/user-attachments/assets/93cd5572-ff24-4816-8b9f-d86f408f5e38" />
+-Key Takeaways
+-<img width="1212" height="740" alt="Key Takeaways" src="https://github.com/user-attachments/assets/4b516309-42de-4e80-9b66-e6d209e843b5" />
+
 
 - ## 🔧 How to Use
 
