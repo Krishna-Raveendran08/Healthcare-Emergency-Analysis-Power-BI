@@ -22,7 +22,7 @@ It helps stakeholders identify bottlenecks, improve patient experience, and make
 
 ---
 
-## 🚑 Key KPIs
+##  Key KPIs
 
 - **Patient Wait Time** (Avg, Median, 90th Percentile)  
 - **Patient Satisfaction Score**  
@@ -35,12 +35,12 @@ It helps stakeholders identify bottlenecks, improve patient experience, and make
 
 ## 📌 Features
 
-### **✔ Data Model**
+### ** Data Model**
 - Integrated patient arrivals, triage data, treatment timelines, discharge events, and survey data.
 - Clean transformations using Power Query.
 - Optimized relationships for analytics.
 
-### **✔ Visualizations**
+### ** Visualizations**
 - KPI Cards (Wait time, Satisfaction, Admissions)
 - Line charts for trends
 - Bar & stacked bar charts
@@ -48,7 +48,7 @@ It helps stakeholders identify bottlenecks, improve patient experience, and make
 - Drill-through pages
 - Interactive slicers for department, triage level, and date ranges
 
-### **✔ Advanced DAX Measures**
+### ** Advanced DAX Measures**
 - Median Wait Time  
 - 90th Percentile Wait Time  
 - Admission Rate  
