@@ -21,9 +21,7 @@ It helps stakeholders identify bottlenecks, improve patient experience, and make
 - Which referral sources contribute most to ER admissions?
 
 ---
-##  Dashboard Overview
-Monthly_view.png
-
+<img width="1212" height="740" alt="image" src="https://github.com/user-attachments/assets/4c3ce066-e25a-4fc6-9266-d087762563fd" />
 
 ##  Key KPIs
 
